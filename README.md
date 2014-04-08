@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [chjj/marked](http://github.com/chjj/marked). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/chjj-marked`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # marked
 
 > A full-featured markdown parser and compiler, written in JavaScript. Built
